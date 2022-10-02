@@ -17,11 +17,14 @@
 
 今は休止中のため、なし
 
-
 # AccountList
 Profile:<https://lit.link/VtuberAkatsuki>
 
 Twitter:<https://twitter.com/Vtuber_Akatsuki>
+ 
+        <https://twitter.com/CastleJP_>
+         
+        <https://twitter.com/Akatsuki_Gentou>
 
 Youtube:<https://www.youtube.com/c/あかつきのちゃんねる>
 
