@@ -33,6 +33,12 @@ Discord:[`あかつき#5099`]
   <a href="http://twitter.com/Vtuber_Akatsuki">
     <img height="20" src="https://img.shields.io/twitter/follow/Vtuber_Akatsuki?label=Twitter&logo=twitter&style=flat" />
   </a>
+   <a href="http://twitter.com/Akatsuki_Gentou">
+    <img height="20" src="https://img.shields.io/twitter/follow/Akatsuki_Gentou?label=Twitter&logo=twitter&style=flat" />
+  </a>
+   <a href="http://twitter.com/CastleJP_">
+    <img height="20" src="https://img.shields.io/twitter/follow/CastleJP_?label=Twitter&logo=twitter&style=flat" />
+  </a>
 </p>
 
 
