@@ -2,7 +2,7 @@
  <img src="akatsuki_header.jpg" width=800>
 </p>
 
-### あかつき (@Vtuber_Akatsuki)
+### あかつき 
 
 ●VRアカデミア所属 ー 数学系Vtuber
 
@@ -18,7 +18,9 @@
 # AccountList
 Profile:<https://lit.link/VtuberAkatsuki>
 
-Twitter:<https://twitter.com/Vtuber_Akatsuki>
+Twitter:<https://twitter.com/Akatsuki_Gentou>
+
+Twitter(休止中):<https://twitter.com/Vtuber_Akatsuki>
 
 Youtube:<https://www.youtube.com/c/あかつきのちゃんねる>
 
