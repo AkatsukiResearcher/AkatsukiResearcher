@@ -22,6 +22,8 @@ Twitter(休止中):<https://twitter.com/Vtuber_Akatsuki>
 
 Youtube:<https://www.youtube.com/c/あかつきのちゃんねる>
 
+Spotify:https://open.spotify.com/user/navdie4zsrucd60emt80xoo5a?si=10de974d5ad54931
+
 Discord:[`あかつき#5099`]
 
 <p align="left">
