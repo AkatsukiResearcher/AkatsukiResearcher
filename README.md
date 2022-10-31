@@ -7,9 +7,6 @@
 ●VRアカデミア所属 ー 数学系Vtuber
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkatsukiResearcher&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkatsukiResearcher&layout=compact&langs_count=10)
-
 
 # Project
 
