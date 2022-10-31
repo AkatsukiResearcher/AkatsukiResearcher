@@ -6,6 +6,7 @@
 
 ●VRアカデミア所属 ー 数学系Vtuber
 
+<img src="AkatsukiReseacher_jojo.png" alt="ジョジョ風のイラスト" width="1920" height="1080" border="0">
 
 
 # Project
