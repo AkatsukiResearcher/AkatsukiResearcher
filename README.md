@@ -16,7 +16,7 @@
 # AccountList
 Profile:<https://lit.link/VtuberAkatsuki>
 
-Twitter:<https://twitter.com/Akatsuki_Gentou>
+Twitter(休止中):<https://twitter.com/Akatsuki_Gentou>
 
 Twitter(休止中):<https://twitter.com/Vtuber_Akatsuki>
 
