@@ -4,8 +4,7 @@
 
 ### あかつき 
 
- <img class="pc" src="AkatsukiReseacher_jojo.png" alt="パソコン用の画像"　width="960" height="540" border="0">
- <img class="sp" src="AkatsukiReseacher_jojo.png" alt="スマートフォン用の画像"　width="960" height="540" border="0">
+ <img src="AkatsukiReseacher_jojo.png" alt="パソコン用の画像"　width="960" height="540" border="0">
 
 # Project
 
