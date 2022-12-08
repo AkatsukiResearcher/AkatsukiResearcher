@@ -4,10 +4,8 @@
 
 ### あかつき 
 
-●VRアカデミア所属 ー 数学系Vtuber
-
-​<img src="AkatsukiReseacher_jojo.png" alt="ジョジョ風のイラスト" width="960" height="540" border="0">
-
+<img class="pc" src="AkatsukiReseacher_jojo.png" alt="パソコン用の画像"　width="960" height="540" border="0">
+<img class="sp" src="AkatsukiReseacher_jojo.png" alt="スマートフォン用の画像"　width="960" height="540" border="0">
 
 # Project
 
