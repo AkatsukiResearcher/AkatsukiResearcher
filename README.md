@@ -5,6 +5,7 @@
 ### あかつき 
 
  <img src="AkatsukiReseacher_jojo.png" alt="パソコン用の画像"　width="960" height="540" border="0">
+<img src="AkatsukiReseacher_jojo.png" alt="エビフライトライアングル" title="サンプル">
 
 # Project
 
