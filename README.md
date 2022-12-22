@@ -11,7 +11,7 @@
 今は休止中のため、なし
 
 # AccountList
-Profile:<https://lit.link/VtuberAkatsuki>
+Profile:<https://lit.link/AkatsukiJP>
 
 Youtube:<https://www.youtube.com/c/あかつきのちゃんねる>
 
